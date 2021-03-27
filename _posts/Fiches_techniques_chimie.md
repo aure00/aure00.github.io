@@ -11,10 +11,10 @@ tags:
   - Fiches STL
 ---
 
-# Une démonstration de l'insertion d'un pdf
+# Fiches techniques STL
 
-[Lien du PDF](/assets/pdf/Fiche indice de refraction.pdf)
+[Lien du PDF](/assets/pdf/LC10/Fiche_indice_refraction.pdf)
 
-{% include pdf src="/assets/pdf/Fiche indice de refraction.pdf" %}
+{% include pdf src="/assets/pdf/LC10/Fiche_indice_refraction.pdf" %}
 
 Et tout se passe bien
