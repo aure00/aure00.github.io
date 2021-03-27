@@ -1,6 +1,6 @@
 ---
 title: "Fiches techniques pour la LC10"
-date:   2020-27-03 15:24:00 +0100
+date:   2021-03-27 15:24:00 +0100
 categories:
   - Leçon chimie
 tags:
