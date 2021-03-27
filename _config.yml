@@ -24,7 +24,7 @@ search: true
 baseurl: ""
 url: "https://aure00.github.io"
 
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 
 # Build settings
 markdown: kramdown
