@@ -9,7 +9,7 @@ tags:
   - Extraction
   - Kofler
   - Filtration
-  -cannizzaro
+  - cannizzaro
 ---
 # Plan détaillé
 ## Intro
@@ -18,3 +18,20 @@ Aujourd'hui, nous allons jouer le rôle de chimistes qui répondent à une comma
 On partira donc du brut réactionnel et il faudra isoler l'acide de l'autre produit et du potentiel résidu de réactif. Il faut ensuite s'assurer que l'on donne vraiment de l'acide benzoïque au client, qui ne serait pas content de manger autre chose...
 
 Si on veut l’acide benzoıque, il faut le separer du melange dans un premier temps.  On va profiter d’une propriete :  l’ion benzoate est plus soluble dans l’eau qu’en phase organique, contrairement à l’alcool benzylique.
+##I Séparations
+###1) Liquide-liquide
+Utilité, dans notre cas, remarques qui est où, photos
+On a récupéré une phase aqueuse de benzoate. Afin de récupérer l'acide benzoïque, il reste deux étapes : transformer le benzoate et séparer le solide (acide benzoïque) de l'eau.
+###2) Liquide-solide
+Utilité, Réaction AB, ici essorage, photos
+
+On pourrait se demander si le travail est fini. On a récupéré un solide blanc, d'accord, mais qu'est ce qui nous dit qu'il est pur? Que c'est bien l'acide benzoïque? Faisons-nous confiance aux protocoles? On va le vérifier, et c'est ce qu'on appelle contrôle de pureté
+##II Controles de pureté
+###1) Point fusion
+Pas bon, on va vérifier de manière plus quantitative
+###2) CCM
+En fait, le solide a cristallisé en renfermant des impuretés, il va falloir les retirer. Il faut donc travailler pour purifier le produit, car il reste des résidus indésirables. C'est ce que l'on va étudier en dernière partie.
+
+##III Purification
+Recri
+
