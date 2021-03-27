@@ -12,9 +12,31 @@ tags:
 ---
 
 # Fiches techniques STL
-
+## Indice de réfraction
 [Lien du PDF](/assets/pdf/LC10/Fiche_indice_refraction.pdf)
 
 {% include pdf src="/assets/pdf/LC10/Fiche_indice_refraction.pdf" %}
+## CCM
+[Lien du PDF](/assets/pdf/LC10/Fiche_chromatographie.pdf)
 
+{% include pdf src="/assets/pdf/LC10/Fiche_chromatographie.pdf" %}
+
+## Distillation
+[Lien du PDF](/assets/pdf/LC10/Fiche_distillation.pdf)
+
+{% include pdf src="/assets/pdf/LC10/Fiche_distillation.pdf" %}
+## Extraction
+[Lien du PDF](/assets/pdf/LC10/Fiche_extraction.pdf)
+
+{% include pdf src="/assets/pdf/LC10/Fiche_extraction.pdf" %}
+
+## Point fusion
+[Lien du PDF](/assets/pdf/LC10/Fiche_point_fusion.pdf)
+
+{% include pdf src="/assets/pdf/LC10/Fiche_point_fusion.pdf" %}
+
+## Recristallisation
+[Lien du PDF](/assets/pdf/LC10/Fiche_recristallisation.pdf)
+
+{% include pdf src="/assets/pdf/LC10/Fiche_recristallisation.pdf" %}
 Et tout se passe bien
