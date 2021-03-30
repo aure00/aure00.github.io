@@ -9,6 +9,10 @@ tags:
   -
 ---
 Extrait du BO:
+[Lien du PDF](/assets/pdf/LC11/programme_lc11.pdf)
+
+{% include pdf src="/assets/pdf/LC11/programme_lc11.pdf" %}
+
 
 # Plan détaillé possible
 ## Intro
