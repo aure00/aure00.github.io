@@ -6,6 +6,8 @@ categories:
 tags:
   - distillation fractionnée
   - binaires
+  - whiskey
+  - réfractométrie
 ---
 Extrait du BO:
 [Lien du PDF](/assets/pdf/LC11/programme_lc11.pdf)
