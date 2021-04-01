@@ -36,3 +36,7 @@ Pas ouf si on veut de l'alcool fort, et si on distillait le distillat? Mieux, et
 Explication, cas parfait. Et si azéo? Compo A.
 3) Et le whiskey
 Distillation fractionnée. Manip : étalonage indice réfraction en fonction de x, et on mesure celui du distillat
+
+Diapo : [Lien du PDF](/assets/pdf/LC11/LC11_diapo.pdf)
+
+{% include pdf src="/assets/pdf/LC11/LC11_diapo.pdf" %}
