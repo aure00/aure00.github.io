@@ -21,10 +21,13 @@ Prérequis :
 On va essayer d'expliquer la fabrication du whiskey.
 ## I Exploitation du diagramme binaire
 On va étudier des mélages de deux espèces (binaire), il va donc falloir caractériser la proportion relative. Pas de réaction, mélanges parfaitement homogènes
+
 1) Fraction Molaire
 Def, exemple (an)
+
 2) diagramme parfait
 Utilisation : axes, courbes, théorème de l'horizontale sur exemple point méthode première bulle.
+
 3) Azéotrope
 Point particulier, une remarque sur la raison? C'est le cas de l'alcool
 
@@ -32,8 +35,10 @@ Point particulier, une remarque sur la raison? C'est le cas de l'alcool
 1)Distillation simple
 Principe, composition de la vapeur, évolution de la concentration, montage, exemple, bien si Teb éloignées
 Pas ouf si on veut de l'alcool fort, et si on distillait le distillat? Mieux, et encore? Mieux... C'est la fractionnée
+
 2) Fractionnée
 Explication, cas parfait. Et si azéo? Compo A.
+
 3) Et le whiskey
 Distillation fractionnée. Manip : étalonage indice réfraction en fonction de x, et on mesure celui du distillat
 
