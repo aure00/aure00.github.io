@@ -1,12 +1,12 @@
 ---
-title: "Agreg physique"
+title: "Un régal"
 layout: splash
 classes:
   - landing
 header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Fond.jpg
-excerpt: la chimie, c'est la vie.
+excerpt: Même si ça ne se mange pas
 ---
 {% comment %}
 Ajouter des images dans une page :
