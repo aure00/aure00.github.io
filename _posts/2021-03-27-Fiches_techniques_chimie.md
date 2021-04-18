@@ -10,7 +10,8 @@ tags:
   - Contrôle pureté
   - Fiches STL
 ---
-
+# Lien général du site :
+https://spcl.ac-montpellier.fr/moodle/
 # Indice de réfraction
 [Lien du PDF](/assets/pdf/LC10/Fiche_indice_refraction.pdf)
 
