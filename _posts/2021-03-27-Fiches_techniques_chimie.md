@@ -2,7 +2,7 @@
 title: "Fiches techniques STL"
 date:   2021-03-27 15:24:00 +0100
 categories:
-  - Leçon chimie
+  - Utilitaire
 tags:
   - LC10
   - Séparation
