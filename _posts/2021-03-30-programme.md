@@ -2,7 +2,7 @@
 title: "Programmes secondaire et prépa"
 date:   2021-03-30 19:37:00 +0100
 categories:
-  - Leçon chimie
+  - Utilitaire
 tags:
   - BO
   - Prepa programme
