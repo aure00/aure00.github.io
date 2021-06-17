@@ -45,3 +45,10 @@ Distillation fractionnée. Manip : étalonage indice réfraction en fonction de 
 Diapo : [Lien du PDF](/assets/pdf/LC11/LC11_diapo.pdf)
 
 {% include pdf src="/assets/pdf/LC11/LC11_diapo.pdf" %}
+
+pptx : [Distillation_et_diagrammes_binaires (1).pptx](https://github.com/aure00/aure00.github.io/files/6668648/Distillation_et_diagrammes_binaires.1.pptx)
+
+# Manip
+On peut plutot faire acétone/butan-1-ol pour la distillation, ça marche mieux car courbe monotone pour l'indice de réfraction.
+
+un article : https://www.sciencedirect.com/science/article/abs/pii/S0378381296031305
